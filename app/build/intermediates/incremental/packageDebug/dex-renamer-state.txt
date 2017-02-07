@@ -1,0 +1,7 @@
+#Tue Feb 07 17:02:46 EET 2017
+base.0=/home/dtf-2/Desktop/ScanFood/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cbdc74e7f984c0226da724b8b3835b6dda05b5a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dtf-2/Desktop/ScanFood/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2026767365ad33768a34d46121198b57e0395c7c/classes.dex
+base.1=/home/dtf-2/Desktop/ScanFood/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2026767365ad33768a34d46121198b57e0395c7c
+file.0=/home/dtf-2/Desktop/ScanFood/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cbdc74e7f984c0226da724b8b3835b6dda05b5a/classes.dex
